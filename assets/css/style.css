@@ -1,3 +1,28 @@
+body {
+  background-color: #eee;
+  line-height: 20px;
+}
+
+.side-nav {
+  text-align: center;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #0D47A1;
+}
+
+.material-icons {
+  line-height: 1.5;
+}
+
+footer {
+  text-align: justify;
+}
+
+#copyright {
+  text-align: center;
+}
+
 @media only screen and (min-width: 992px) {
   .brand-logo {
     margin-left: 20px;
