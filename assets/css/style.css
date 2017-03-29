@@ -1,6 +1,7 @@
 body {
   background-color: #eee;
   line-height: 20px;
+  text-align: justify;
 }
 
 .side-nav {
