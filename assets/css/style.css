@@ -4,11 +4,6 @@ body {
   text-align: justify;
 }
 
-/*Mobile Menu*/
-.side-nav {
-  text-align: center;
-}
-
 .slider .indicators .indicator-item.active {
   background-color: #0D47A1;
 }
@@ -25,6 +20,12 @@ footer {
   text-align: center;
 }
 
+/*Mobile Menu*/
+.side-nav {
+  text-align: center;
+}
+
+/*Desktop Screen*/
 @media only screen and (min-width: 992px) {
   .brand-logo {
     margin-left: 20px;
