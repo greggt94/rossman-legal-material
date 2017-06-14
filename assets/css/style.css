@@ -4,6 +4,15 @@ body {
   text-align: justify;
 }
 
+.indicators {
+  display: none;
+}
+
+#brand-logo {
+  height: 4.3rem;
+  width: 300px;
+}
+
 .slider .indicators .indicator-item.active {
   background-color: #0D47A1;
 }
